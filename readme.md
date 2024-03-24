@@ -8,7 +8,7 @@
 	<p>
 		<p>
 			<sup>
-				Sindre's open source work is supported by the community.<br>Special thanks to:
+				It is supported by the community.<br>Special thanks to:
 			</sup>
 		</p>
 		<br>
